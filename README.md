@@ -1,0 +1,1 @@
+# go-http-pact-talk-provider
